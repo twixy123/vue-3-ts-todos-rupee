@@ -1,4 +1,4 @@
-# vue-3-ts-test
+# vue-3-ts-test app with vue-cli and with defineComponent
 
 ## Project setup
 ```
